@@ -1,7 +1,7 @@
 DNI
 ===
 
-calculo de la letra del DNI.
+Cálculo de la letra del DNI.
 
 El cálculo de la letra del Documento Nacional de Identidad (DNI) es un proceso matemático sencillo que se basa en obtener el resto de la división entera del número de DNI y el número 23. A partir del resto de la división, se obtiene la letra seleccionándola dentro de un array de letras.
 
